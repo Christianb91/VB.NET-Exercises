@@ -351,7 +351,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = ",,,,,,,,,,,,,,,,,,,"
+        Me.Text = "Bookworm - For All your Reading Needs"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
